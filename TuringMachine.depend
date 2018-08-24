@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1426964262 source:c:\users\labdismov\documents\c++\turingmachine\main.cpp
+	<iostream>
+	<stdio.h>
+	<vector>
+	<string>
+	<bitset>
+	<algorithm>
+	<time.h>
+	<math.h>
+	<queue>
+
+1427000891 source:c:\users\cassandra\documents\sem~6\turingmachine\main.cpp
+	<iostream>
+	<stdio.h>
+	<vector>
+	<string>
+	<bitset>
+	<algorithm>
+	<time.h>
+	<math.h>
+	<queue>
+
